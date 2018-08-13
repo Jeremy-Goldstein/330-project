@@ -7,7 +7,7 @@ Functionality:
 - Users can register for accounts and then log in to the website.
 - Accounts should have both a username and a secure password.
 - Registered users can submit story commentary.
-- A link can be associated with each story
+- A link can be associated with each story. 
 - Registered users can comment on any story.
 - Unregistered users can only view stories and comments.
 - Registered users can edit and delete their stories and comments.
