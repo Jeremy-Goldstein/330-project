@@ -14,8 +14,8 @@ Functionality:
 - All data kept in a MySQL database (user information, stories, comments, and links).
 
 Web Security Best Practices
-- Safe from SQL Injection attacks (2 points)
-- Site follows the FIEO philosophy (3 points)
+- Safe from SQL Injection attacks 
+- Site follows the FIEO philosophy
 - CSRF tokens are passed when creating, editing, and deleting comments and stories
 
 
